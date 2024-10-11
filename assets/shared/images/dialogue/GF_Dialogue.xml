@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="binary technically got no bitches so this be a fake bitch.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF0000" x="0" y="0" width="293" height="414"/>
+	<SubTexture name="GF CONFUSED0000" x="293" y="0" width="293" height="414"/>
+	<SubTexture name="GF CONFUSED LOOP0000" x="586" y="0" width="299" height="424"/>
+	<SubTexture name="GF CONFUSED LOOP0001" x="586" y="0" width="299" height="424"/>
+	<SubTexture name="GF CONFUSED LOOP0002" x="885" y="0" width="299" height="424"/>
+	<SubTexture name="GF CONFUSED LOOP0003" x="885" y="0" width="299" height="424"/>
+	<SubTexture name="GF CONFUSED LOOP0004" x="1184" y="0" width="299" height="424"/>
+	<SubTexture name="GF CONFUSED LOOP0005" x="1483" y="0" width="299" height="424"/>
+	<SubTexture name="GF DEMON0000" x="0" y="424" width="293" height="414"/>
+	<SubTexture name="GF DEMON0001" x="0" y="424" width="293" height="414"/>
+	<SubTexture name="GF DEMON0002" x="293" y="424" width="293" height="414"/>
+	<SubTexture name="GF DEMON0003" x="293" y="424" width="293" height="414"/>
+	<SubTexture name="GF DEMON LOOP0000" x="586" y="424" width="299" height="424"/>
+	<SubTexture name="GF DEMON LOOP0001" x="586" y="424" width="299" height="424"/>
+	<SubTexture name="GF DEMON LOOP0002" x="885" y="424" width="299" height="424"/>
+	<SubTexture name="GF DEMON LOOP0003" x="885" y="424" width="299" height="424"/>
+	<SubTexture name="GF DEMON LOOP0004" x="1184" y="424" width="299" height="424"/>
+	<SubTexture name="GF DEMON LOOP0005" x="1483" y="424" width="299" height="424"/>
+	<SubTexture name="GF EXCITED0000" x="0" y="848" width="292" height="422"/>
+	<SubTexture name="GF EXCITED LOOP0000" x="292" y="848" width="302" height="446"/>
+	<SubTexture name="GF EXCITED LOOP0001" x="292" y="848" width="302" height="446"/>
+	<SubTexture name="GF EXCITED LOOP0002" x="594" y="848" width="302" height="446"/>
+	<SubTexture name="GF EXCITED LOOP0003" x="594" y="848" width="302" height="446"/>
+	<SubTexture name="GF EXCITED LOOP0004" x="896" y="848" width="302" height="446"/>
+	<SubTexture name="GF EXCITED LOOP0005" x="1198" y="848" width="302" height="446"/>
+	<SubTexture name="GF LOOP0000" x="1500" y="848" width="299" height="424"/>
+	<SubTexture name="GF LOOP0001" x="1500" y="848" width="299" height="424"/>
+	<SubTexture name="GF LOOP0002" x="0" y="1294" width="299" height="424"/>
+	<SubTexture name="GF LOOP0003" x="0" y="1294" width="299" height="424"/>
+	<SubTexture name="GF LOOP0004" x="299" y="1294" width="299" height="424"/>
+	<SubTexture name="GF LOOP0005" x="598" y="1294" width="299" height="424"/>
+	<SubTexture name="GF SHOCK0000" x="897" y="1294" width="385" height="392"/>
+	<SubTexture name="GF SHOCK LOOP0000" x="1282" y="1294" width="390" height="412"/>
+	<SubTexture name="GF SHOCK LOOP0001" x="1282" y="1294" width="390" height="412"/>
+	<SubTexture name="GF SHOCK LOOP0002" x="0" y="1718" width="390" height="412"/>
+	<SubTexture name="GF SHOCK LOOP0003" x="0" y="1718" width="390" height="412"/>
+	<SubTexture name="GF SHOCK LOOP0004" x="390" y="1718" width="390" height="412"/>
+	<SubTexture name="GF SHOCK LOOP0005" x="780" y="1718" width="390" height="412"/>
+</TextureAtlas>

@@ -1,0 +1,15 @@
+{
+	"directory": "",
+	"defaultZoom": 0.74,
+	"isPixelStage": false,
+
+	"boyfriend": [780, -20],
+	"girlfriend": [410, 0],
+	"opponent": [110, -20],
+	"hide_girlfriend": true,
+
+	"camera_boyfriend": [780, -20],
+	"camera_girlfriend": [410, 0],
+	"xamera_opponent": [110, -20],
+	"camera_speed": 1
+}

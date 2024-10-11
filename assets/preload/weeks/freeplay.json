@@ -1,0 +1,32 @@
+{
+	"storyName": "Extra Songs",
+	"difficulties": "Extra",
+	"hideFreeplay": false,
+	"weekBackground": "road",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Rushed",
+			"rin",
+			[
+				255,
+				216,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Extra"
+}

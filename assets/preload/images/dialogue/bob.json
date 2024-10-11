@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		180,
+		140
+	],
+	"scale": 1.8,
+	"animations": [
+		{
+			"loop_name": "bob fuck",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bob fuck",
+			"anim": "bob fuck",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "bob"
+}

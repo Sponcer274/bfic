@@ -1,0 +1,50 @@
+{
+	"storyName": "GIVE ME THE FUCKING ICE CREAM",
+	"difficulties": "Easy, Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "road",
+	"weekBefore": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Iced",
+			"ron",
+			[
+				255,
+				216,
+				0
+			]
+		],
+		[
+			"Murky",
+			"ronmad",
+			[
+				100,
+				80,
+				0
+			]
+		],
+		[
+			"Bloodline",
+			"devilron",
+			[
+				105,
+				1,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Ice Cream"
+}

@@ -1,0 +1,124 @@
+{
+	"dialogue": [
+		{
+			"expression": "bored",
+			"text": "wtf",
+			"boxState": "normal",
+			"sound": "rontext",
+			"speed": 0.05,
+			"portrait": "ron"
+		},
+		{
+			"expression": "angy",
+			"text": "i won",
+			"boxState": "normal",
+			"sound": "rontext",
+			"speed": 0.05,
+			"portrait": "ron"
+		},
+		{
+			"expression": "excited",
+			"text": "no i won",
+			"boxState": "normal",
+			"sound": "bftext",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"sound": "bobtext",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "man im bob im gonna run this truck over you bitches"
+		},
+		{
+			"sound": "bftext",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "cry about it"
+		},
+		{
+			"sound": "bftext",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "we all know i won"
+		},
+		{
+			"sound": "rontext",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "shok",
+			"text": "wtf why is dream there"
+		},
+		{
+			"sound": "rontext",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "angy",
+			"text": "wait"
+		},
+		{
+			"sound": "bftext",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "cry"
+		},
+		{
+			"sound": "rontext",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "smugass",
+			"text": "die"
+		},
+		{
+			"sound": "rontext",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lmao"
+		},
+		{
+			"sound": "bftext",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "bro wtf"
+		},
+		{
+			"sound": "bobtext",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dialogue ends here epically"
+		},
+		{
+			"sound": "rontext",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "death threats"
+		},
+		{
+			"sound": "bftext",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "are you straight up mentally ok"
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		50,
+		60
+	],
+	"scale": 1.35,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				1
+			],
+			"loop_name": "normal inst",
+			"idle_name": "normal loop"
+		},
+		{
+			"loop_name": "angy instance 1",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "angy loop",
+			"anim": "angy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "shok i",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "shok loop",
+			"anim": "shok",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "smugass i",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "smugass loop",
+			"anim": "smugass",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "bored i",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "bored loop",
+			"anim": "bored",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "RonDialogue"
+}

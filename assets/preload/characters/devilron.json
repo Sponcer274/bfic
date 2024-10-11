@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "IDLE"
+		},
+		{
+			"offsets": [
+				130,
+				-210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "down"
+		},
+		{
+			"offsets": [
+				2,
+				-200
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "left"
+		},
+		{
+			"offsets": [
+				91,
+				-190
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-26,
+				-83
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bloodshed",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "devilron",
+	"flip_x": false,
+	"healthbar_colors": [
+		193,
+		139,
+		138
+	],
+	"camera_position": [
+		-40,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

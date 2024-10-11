@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialog ron dialog ron.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angy instance 10000" x="0" y="0" width="461" height="504"/>
+	<SubTexture name="angy instance 10001" x="461" y="0" width="461" height="504"/>
+	<SubTexture name="angy instance 10002" x="922" y="0" width="461" height="504"/>
+	<SubTexture name="angy instance 10003" x="1383" y="0" width="461" height="504"/>
+	<SubTexture name="angy loop instance 10000" x="0" y="504" width="460" height="504"/>
+	<SubTexture name="angy loop instance 10001" x="460" y="504" width="460" height="504"/>
+	<SubTexture name="angy loop instance 10002" x="920" y="504" width="460" height="504"/>
+	<SubTexture name="angy loop instance 10003" x="1380" y="504" width="460" height="504"/>
+	<SubTexture name="bored instance 10000" x="0" y="1008" width="461" height="503"/>
+	<SubTexture name="bored instance 10001" x="461" y="1008" width="461" height="503"/>
+	<SubTexture name="bored loop instance 10000" x="922" y="1008" width="461" height="504"/>
+	<SubTexture name="bored loop instance 10001" x="922" y="1008" width="461" height="504"/>
+	<SubTexture name="normal instance 10000" x="1383" y="1008" width="461" height="504"/>
+	<SubTexture name="normal instance 10001" x="0" y="1512" width="461" height="504"/>
+	<SubTexture name="normal loop instance 10000" x="461" y="1512" width="461" height="504"/>
+	<SubTexture name="normal loop instance 10001" x="461" y="1512" width="461" height="504"/>
+	<SubTexture name="shok instance 10000" x="922" y="1512" width="444" height="493" frameX="0" frameY="0" frameWidth="449" frameHeight="493"/>
+	<SubTexture name="shok instance 10001" x="1366" y="1512" width="441" height="485" frameX="-8" frameY="-3" frameWidth="449" frameHeight="493"/>
+	<SubTexture name="shok instance 10002" x="0" y="2016" width="444" height="493" frameX="0" frameY="0" frameWidth="449" frameHeight="493"/>
+	<SubTexture name="shok loop instance 10000" x="444" y="2016" width="444" height="493"/>
+	<SubTexture name="shok loop instance 10001" x="888" y="2016" width="444" height="493"/>
+	<SubTexture name="shok loop instance 10002" x="1332" y="2016" width="444" height="493"/>
+	<SubTexture name="smugass instance 10000" x="0" y="2509" width="461" height="503"/>
+	<SubTexture name="smugass instance 10001" x="461" y="2509" width="461" height="503"/>
+	<SubTexture name="smugass loop instance 10000" x="922" y="2509" width="461" height="504"/>
+	<SubTexture name="smugass loop instance 10001" x="922" y="2509" width="461" height="504"/>
+</TextureAtlas>

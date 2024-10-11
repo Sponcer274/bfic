@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "rontext",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "among"
+		},
+		{
+			"sound": "bftext",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "no"
+		},
+		{
+			"sound": "rontext",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "su"
+		},
+		{
+			"sound": "rontext",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "s"
+		},
+		{
+			"sound": "bftext",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "no"
+		},
+		{
+			"sound": "rontext",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "smugass",
+			"text": "rap"
+		},
+		{
+			"sound": "bftext",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "stop"
+		},
+		{
+			"sound": "bftext",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		},
+		{
+			"sound": "bftext",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": ":)"
+		},
+		{
+			"sound": "rontext",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "cool rap"
+		},
+		{
+			"sound": "rontext",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "smugass",
+			"text": "dumb fuck"
+		},
+		{
+			"sound": "bftext",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": ":(\r\n"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Shimeji_Rin.png">
+<SubTexture name="Shimeji_Idle0000" x="0" y="0" width="350" height="571" frameX="-2" frameY="-1" frameWidth="352" frameHeight="574" />
+<SubTexture name="Shimeji_Walk0000" x="344" y="571" width="344" height="552" frameX="0" frameY="-1" frameWidth="344" frameHeight="554" />
+<SubTexture name="Shimeji_Walk0001" x="0" y="571" width="344" height="562" frameX="0" frameY="-1" frameWidth="344" frameHeight="563" />
+<SubTexture name="Shimeji_Walk0002" x="350" y="0" width="344" height="570" frameX="0" frameY="-1" frameWidth="344" frameHeight="571" />
+<SubTexture name="Shimeji_Walk0003" x="0" y="571" width="344" height="562" frameX="0" frameY="-1" frameWidth="344" frameHeight="563" />
+<SubTexture name="Shimeji_Fall0000" x="694" y="0" width="440" height="569" frameX="0" frameY="0" frameWidth="442" frameHeight="570" />
+<SubTexture name="Shimeji_Jump0000" x="1134" y="0" width="336" height="569" frameX="-1" frameY="-2" frameWidth="338" frameHeight="573" />
+<SubTexture name="Shimeji_Sit0000" x="688" y="571" width="403" height="483" frameX="-2" frameY="0" frameWidth="405" frameHeight="486" />
+</TextureAtlas>

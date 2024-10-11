@@ -1,0 +1,86 @@
+{
+	"song": {
+		"events": [
+			[
+				69677.4193548387,
+				[
+					[
+						"Play Animation",
+						"ronck",
+						"ron"
+					]
+				]
+			],
+			[
+				69677.4193548387,
+				[
+					[
+						"Add Camera Zoom",
+						"0.3",
+						""
+					]
+				]
+			],
+			[
+				69815.668202765,
+				[
+					[
+						"Play Animation",
+						"ronck",
+						"ron"
+					]
+				]
+			],
+			[
+				69953.9170506913,
+				[
+					[
+						"Play Animation",
+						"ronck",
+						"ron"
+					]
+				]
+			],
+			[
+				70092.1658986175,
+				[
+					[
+						"Play Animation",
+						"ronck",
+						"ron"
+					]
+				]
+			],
+			[
+				70230.4147465438,
+				[
+					[
+						"Play Animation",
+						"ronck",
+						"ron"
+					]
+				]
+			],
+			[
+				70368.6635944701,
+				[
+					[
+						"Play Animation",
+						"ronck",
+						"ron"
+					]
+				]
+			],
+			[
+				70506.9124423964,
+				[
+					[
+						"Play Animation",
+						"ronck",
+						"ron"
+					]
+				]
+			]
+		]
+	}
+}

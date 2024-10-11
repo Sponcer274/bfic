@@ -1,0 +1,220 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dialogue for the 4th song starts (edited)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hah :troll:"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "this the 4th song (that we never even planned) dialogue :troll:"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "very cool"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OH"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "AWESOME"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "MORE NONSENSE DIALOG"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "bored",
+			"text": "wait"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "angy",
+			"text": "no."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "angy",
+			"text": "yohu didn't say when it started"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "yes"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "thats the thing"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": ":troll:"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "smugass",
+			"text": "that means it never started"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dialogue for the 4th song ends"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "look guys im very funny"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "shok",
+			"text": "BUT IT NEVER STYARYTED?????"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what if we made a secret folder that is a fake teaser for a 4th song in week 1 that is never gonna be made to troll dataminers"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "starvede"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "^^^^^^"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yoo!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "starved"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ron",
+			"boxState": "normal",
+			"expression": "angy",
+			"text": "@miojo157 ^^^^^^\\nyou bitch"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bob",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "now you know what i feel!!!!!!!!!!!!!"
+		}
+	]
+}
